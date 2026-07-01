@@ -1,0 +1,224 @@
+<svg data-dc-tpl="4" id="store-icon-svg" width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg" data-om-id="c349924d:9">
+      <defs data-dc-tpl="5" data-om-id="c349924d:10">
+        <linearGradient data-dc-tpl="6" id="bgGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:11">
+          <stop data-dc-tpl="7" offset="0" data-om-id="c349924d:12" stop-color="#4C5566"/>
+          <stop data-dc-tpl="8" offset="0.55" data-om-id="c349924d:13" stop-color="#2B3140"/>
+          <stop data-dc-tpl="9" offset="1" data-om-id="c349924d:14" stop-color="#20252F"/>
+        </linearGradient>
+        <radialGradient data-dc-tpl="10" id="vignette" cx="0.5" cy="0.38" r="0.85" data-om-id="c349924d:15">
+          <stop data-dc-tpl="11" offset="0.55" data-om-id="c349924d:16" stop-color="#000000" stop-opacity="0"/>
+          <stop data-dc-tpl="12" offset="1" data-om-id="c349924d:17" stop-color="#000000" stop-opacity="0.32"/>
+        </radialGradient>
+        <linearGradient data-dc-tpl="13" id="signBevel" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:18">
+          <stop data-dc-tpl="14" offset="0" data-om-id="c349924d:19" stop-color="#39404E"/>
+          <stop data-dc-tpl="15" offset="1" data-om-id="c349924d:20" stop-color="#12161E"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="16" id="signGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:21">
+          <stop data-dc-tpl="17" offset="0" data-om-id="c349924d:22" stop-color="#A7CBE6"/>
+          <stop data-dc-tpl="18" offset="0.35" data-om-id="c349924d:23" stop-color="#528EBF"/>
+          <stop data-dc-tpl="19" offset="1" data-om-id="c349924d:24" stop-color="#2E5A80"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="20" id="facadeGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:25">
+          <stop data-dc-tpl="21" offset="0" data-om-id="c349924d:26" stop-color="#3A4250"/>
+          <stop data-dc-tpl="22" offset="0.25" data-om-id="c349924d:27" stop-color="#2A303D"/>
+          <stop data-dc-tpl="23" offset="1" data-om-id="c349924d:28" stop-color="#1B2029"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="24" id="slopeLit" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:29">
+          <stop data-dc-tpl="25" offset="0" data-om-id="c349924d:30" stop-color="#FFFFFF" stop-opacity="0.34"/>
+          <stop data-dc-tpl="26" offset="1" data-om-id="c349924d:31" stop-color="#FFFFFF" stop-opacity="0.02"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="27" id="valShade" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:32">
+          <stop data-dc-tpl="28" offset="0" data-om-id="c349924d:33" stop-color="#000000" stop-opacity="0.32"/>
+          <stop data-dc-tpl="29" offset="0.4" data-om-id="c349924d:34" stop-color="#000000" stop-opacity="0.12"/>
+          <stop data-dc-tpl="30" offset="1" data-om-id="c349924d:35" stop-color="#000000" stop-opacity="0.26"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="31" id="glassGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:36">
+          <stop data-dc-tpl="32" offset="0" data-om-id="c349924d:37" stop-color="#20242E"/>
+          <stop data-dc-tpl="33" offset="0.4" data-om-id="c349924d:38" stop-color="#2B313E"/>
+          <stop data-dc-tpl="34" offset="1" data-om-id="c349924d:39" stop-color="#3A4250"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="35" id="frameGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:40">
+          <stop data-dc-tpl="36" offset="0" data-om-id="c349924d:41" stop-color="#3E4654"/>
+          <stop data-dc-tpl="37" offset="1" data-om-id="c349924d:42" stop-color="#171B23"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="38" id="doorGlass" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:43">
+          <stop data-dc-tpl="39" offset="0" data-om-id="c349924d:44" stop-color="#4A5364"/>
+          <stop data-dc-tpl="40" offset="1" data-om-id="c349924d:45" stop-color="#2C3341"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="41" id="curbGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:46">
+          <stop data-dc-tpl="42" offset="0" data-om-id="c349924d:47" stop-color="#6E7787"/>
+          <stop data-dc-tpl="43" offset="0.5" data-om-id="c349924d:48" stop-color="#525A69"/>
+          <stop data-dc-tpl="44" offset="1" data-om-id="c349924d:49" stop-color="#3D4451"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="45" id="groundGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:50">
+          <stop data-dc-tpl="46" offset="0" data-om-id="c349924d:51" stop-color="#6B7382"/>
+          <stop data-dc-tpl="47" offset="1" data-om-id="c349924d:52" stop-color="#8E96A3"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="48" id="boxGrad" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:53">
+          <stop data-dc-tpl="49" offset="0" data-om-id="c349924d:54" stop-color="#A7CBE6"/>
+          <stop data-dc-tpl="50" offset="0.5" data-om-id="c349924d:55" stop-color="#528EBF"/>
+          <stop data-dc-tpl="51" offset="1" data-om-id="c349924d:56" stop-color="#2E5A80"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="52" id="boxGradDark" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:57">
+          <stop data-dc-tpl="53" offset="0" data-om-id="c349924d:58" stop-color="#528EBF"/>
+          <stop data-dc-tpl="54" offset="1" data-om-id="c349924d:59" stop-color="#2E5A80"/>
+        </linearGradient>
+        <linearGradient data-dc-tpl="55" id="boxGradGray" x1="0" y1="0" x2="0" y2="1" data-om-id="c349924d:60">
+          <stop data-dc-tpl="56" offset="0" data-om-id="c349924d:61" stop-color="#B8BFCA"/>
+          <stop data-dc-tpl="57" offset="0.5" data-om-id="c349924d:62" stop-color="#9AA2AF"/>
+          <stop data-dc-tpl="58" offset="1" data-om-id="c349924d:63" stop-color="#767E8C"/>
+        </linearGradient>
+        <filter data-dc-tpl="59" id="softShadow" x="-30%" y="-30%" width="160%" height="180%" data-om-id="c349924d:64">
+          <feDropShadow data-dc-tpl="60" dx="0" dy="7" stdDeviation="7" data-om-id="c349924d:65" flood-color="#000000" flood-opacity="0.35"/>
+        </filter>
+        <filter data-dc-tpl="61" id="textShadow" x="-30%" y="-30%" width="160%" height="180%" data-om-id="c349924d:66">
+          <feDropShadow data-dc-tpl="62" dx="0" dy="2.5" stdDeviation="1.2" data-om-id="c349924d:67" flood-color="#000000" flood-opacity="0.4"/>
+        </filter>
+        <filter data-dc-tpl="63" id="blurShadow" x="-40%" y="-40%" width="180%" height="200%" data-om-id="c349924d:68">
+          <feGaussianBlur data-dc-tpl="64" stdDeviation="9" data-om-id="c349924d:69"/>
+        </filter>
+        <clipPath data-dc-tpl="65" id="squircleClip" data-om-id="c349924d:70">
+          <rect data-dc-tpl="66" x="0" y="0" width="512" height="512" rx="118" data-om-id="c349924d:71"/>
+        </clipPath>
+        <clipPath data-dc-tpl="67" id="glassClip" data-om-id="c349924d:72">
+          <rect data-dc-tpl="68" x="10" y="246" width="196" height="158" rx="6" data-om-id="c349924d:73"/>
+        </clipPath>
+      </defs>
+
+      <g data-dc-tpl="69" id="icon-root" data-om-id="c349924d:74">
+        
+        <g data-dc-tpl="70" id="layer-background" data-om-id="c349924d:75">
+          <rect data-dc-tpl="71" x="0" y="0" width="512" height="512" rx="118" fill="url(#bgGrad)" data-om-id="c349924d:76"/>
+        </g>
+
+        <g data-dc-tpl="72" id="layer-storefront" data-om-id="c349924d:77" clip-path="url(#squircleClip)">
+
+          
+          <rect data-dc-tpl="73" x="0" y="0" width="512" height="436" fill="#2E5A80" opacity="0.14" data-om-id="c349924d:78"/>
+
+          
+          <g data-dc-tpl="74" id="layer-ground" data-om-id="c349924d:79">
+            <rect data-dc-tpl="75" x="0" y="430" width="512" height="82" fill="url(#groundGrad)" data-om-id="c349924d:80"/>
+            <rect data-dc-tpl="76" x="0" y="430" width="512" height="4" fill="#1A1F29" opacity="0.5" data-om-id="c349924d:81"/>
+          </g>
+
+          
+          <g data-dc-tpl="77" id="layer-facade" data-om-id="c349924d:82">
+            <rect data-dc-tpl="78" x="48" y="96" width="416" height="322" rx="18" fill="url(#facadeGrad)" data-om-id="c349924d:83"/>
+            <rect data-dc-tpl="79" x="50.5" y="98.5" width="411" height="317" rx="15.5" fill="none" stroke="#FFFFFF" data-om-id="c349924d:84" stroke-opacity="0.07" stroke-width="3"/>
+          </g>
+
+          
+          <g data-dc-tpl="80" id="layer-window" transform="translate(80 0)" data-om-id="c349924d:85">
+            <rect data-dc-tpl="81" x="0" y="236" width="216" height="178" rx="10" fill="url(#frameGrad)" data-om-id="c349924d:86"/>
+            <rect data-dc-tpl="82" x="1.5" y="237.5" width="213" height="175" rx="8.5" fill="none" stroke="#FFFFFF" data-om-id="c349924d:87" stroke-opacity="0.10" stroke-width="3"/>
+            <rect data-dc-tpl="83" x="10" y="246" width="196" height="158" rx="6" fill="url(#glassGrad)" data-om-id="c349924d:88"/>
+
+            <g data-dc-tpl="84" id="window-boxes" data-om-id="c349924d:89" clip-path="url(#glassClip)">
+              
+              <rect data-dc-tpl="85" x="10" y="246" width="196" height="60" fill="#12161E" opacity="0.45" data-om-id="c349924d:90"/>
+
+              
+              <g data-dc-tpl="86" id="box-top-left" data-om-id="c349924d:91">
+                <rect data-dc-tpl="87" x="52" y="300" width="52" height="52" rx="4" fill="url(#boxGradGray)" stroke="#5C6470" data-om-id="c349924d:92" stroke-width="2.5"/>
+                <rect data-dc-tpl="88" x="52" y="300" width="52" height="11" rx="4" fill="#FFFFFF" opacity="0.28" data-om-id="c349924d:93"/>
+                <rect data-dc-tpl="89" x="74" y="300" width="9" height="52" fill="#FFFFFF" opacity="0.22" data-om-id="c349924d:94"/>
+              </g>
+              <g data-dc-tpl="90" id="box-top-right" data-om-id="c349924d:95">
+                <rect data-dc-tpl="91" x="108" y="304" width="50" height="48" rx="4" fill="url(#boxGrad)" stroke="#2E5A80" data-om-id="c349924d:96" stroke-width="2.5"/>
+                <rect data-dc-tpl="92" x="108" y="304" width="50" height="10" rx="4" fill="#FFFFFF" opacity="0.3" data-om-id="c349924d:97"/>
+                <rect data-dc-tpl="93" x="129" y="304" width="9" height="48" fill="#FFFFFF" opacity="0.22" data-om-id="c349924d:98"/>
+              </g>
+
+              
+              <g data-dc-tpl="94" id="box-bottom-1" data-om-id="c349924d:99">
+                <rect data-dc-tpl="95" x="24" y="350" width="56" height="54" rx="4" fill="url(#boxGrad)" stroke="#2E5A80" data-om-id="c349924d:100" stroke-width="2.5"/>
+                <rect data-dc-tpl="96" x="24" y="350" width="56" height="11" rx="4" fill="#FFFFFF" opacity="0.3" data-om-id="c349924d:101"/>
+                <rect data-dc-tpl="97" x="48" y="350" width="9" height="54" fill="#FFFFFF" opacity="0.22" data-om-id="c349924d:102"/>
+              </g>
+              <g data-dc-tpl="98" id="box-bottom-2" data-om-id="c349924d:103">
+                <rect data-dc-tpl="99" x="84" y="350" width="56" height="54" rx="4" fill="url(#boxGradDark)" stroke="#2E5A80" data-om-id="c349924d:104" stroke-width="2.5"/>
+                <rect data-dc-tpl="100" x="84" y="350" width="56" height="11" rx="4" fill="#FFFFFF" opacity="0.22" data-om-id="c349924d:105"/>
+                <rect data-dc-tpl="101" x="108" y="350" width="9" height="54" fill="#FFFFFF" opacity="0.18" data-om-id="c349924d:106"/>
+              </g>
+              <g data-dc-tpl="102" id="box-bottom-3" data-om-id="c349924d:107">
+                <rect data-dc-tpl="103" x="144" y="350" width="52" height="54" rx="4" fill="url(#boxGrad)" stroke="#2E5A80" data-om-id="c349924d:108" stroke-width="2.5"/>
+                <rect data-dc-tpl="104" x="144" y="350" width="52" height="11" rx="4" fill="#FFFFFF" opacity="0.3" data-om-id="c349924d:109"/>
+                <rect data-dc-tpl="105" x="166" y="350" width="9" height="54" fill="#FFFFFF" opacity="0.22" data-om-id="c349924d:110"/>
+              </g>
+
+              
+              <path data-dc-tpl="106" d="M58 246 L128 246 L34 404 L10 404 Z" fill="#FFFFFF" opacity="0.06" data-om-id="c349924d:111"/>
+              <path data-dc-tpl="107" d="M148 246 L172 246 L78 404 L54 404 Z" fill="#FFFFFF" opacity="0.045" data-om-id="c349924d:112"/>
+            </g>
+            <rect data-dc-tpl="108" x="10" y="246" width="196" height="158" rx="6" fill="none" stroke="#000000" data-om-id="c349924d:113" stroke-opacity="0.3" stroke-width="2"/>
+
+            
+            <rect data-dc-tpl="109" x="-8" y="402" width="232" height="16" rx="6" fill="url(#curbGrad)" filter="url(#softShadow)" data-om-id="c349924d:114"/>
+          </g>
+
+          
+          <g data-dc-tpl="110" id="layer-door" transform="translate(324 0)" data-om-id="c349924d:115">
+            <rect data-dc-tpl="111" x="0" y="236" width="108" height="184" rx="10" fill="url(#frameGrad)" data-om-id="c349924d:116"/>
+            <rect data-dc-tpl="112" x="1.5" y="237.5" width="105" height="181" rx="8.5" fill="none" stroke="#FFFFFF" data-om-id="c349924d:117" stroke-opacity="0.10" stroke-width="3"/>
+            <rect data-dc-tpl="113" x="11" y="247" width="86" height="166" rx="6" fill="url(#doorGlass)" data-om-id="c349924d:118"/>
+            <path data-dc-tpl="114" d="M38 247 L70 247 L34 413 L18 413 Z" fill="#FFFFFF" opacity="0.07" data-om-id="c349924d:119"/>
+            <rect data-dc-tpl="115" x="11" y="247" width="86" height="166" rx="6" fill="none" stroke="#000000" data-om-id="c349924d:120" stroke-opacity="0.3" stroke-width="2"/>
+            <rect data-dc-tpl="116" x="16" y="322" width="7" height="24" rx="3.5" fill="#528EBF" data-om-id="c349924d:121"/>
+          </g>
+
+          
+          <rect data-dc-tpl="117" x="34" y="412" width="444" height="26" rx="9" fill="url(#curbGrad)" filter="url(#softShadow)" data-om-id="c349924d:122"/>
+          <rect data-dc-tpl="118" x="34" y="412" width="444" height="5" rx="2.5" fill="#FFFFFF" opacity="0.14" data-om-id="c349924d:123"/>
+
+          
+          <g data-dc-tpl="119" id="layer-awning" data-om-id="c349924d:124">
+            
+            <ellipse data-dc-tpl="120" cx="256" cy="226" rx="200" ry="16" fill="#000000" opacity="0.38" filter="url(#blurShadow)" data-om-id="c349924d:125"/>
+
+            
+            <rect data-dc-tpl="121" x="94" y="140" width="324" height="14" rx="5" fill="#171B23" data-om-id="c349924d:126"/>
+
+            
+            <g data-dc-tpl="122" id="awning-slope" data-om-id="c349924d:127">
+              <path data-dc-tpl="123" d="M100 150 L145 150 L120 196 L64 196 Z" fill="#528EBF" data-om-id="c349924d:128"/>
+              <path data-dc-tpl="124" d="M145 150 L189 150 L176 196 L120 196 Z" fill="#2E5A80" data-om-id="c349924d:129"/>
+              <path data-dc-tpl="125" d="M189 150 L234 150 L232 196 L176 196 Z" fill="#528EBF" data-om-id="c349924d:130"/>
+              <path data-dc-tpl="126" d="M234 150 L278 150 L288 196 L232 196 Z" fill="#2E5A80" data-om-id="c349924d:131"/>
+              <path data-dc-tpl="127" d="M278 150 L323 150 L344 196 L288 196 Z" fill="#528EBF" data-om-id="c349924d:132"/>
+              <path data-dc-tpl="128" d="M323 150 L367 150 L400 196 L344 196 Z" fill="#2E5A80" data-om-id="c349924d:133"/>
+              <path data-dc-tpl="129" d="M367 150 L412 150 L448 196 L400 196 Z" fill="#528EBF" data-om-id="c349924d:134"/>
+              <path data-dc-tpl="130" d="M100 150 L412 150 L448 196 L64 196 Z" fill="url(#slopeLit)" data-om-id="c349924d:135"/>
+            </g>
+
+            
+            <g data-dc-tpl="131" id="awning-valance" data-om-id="c349924d:136">
+              <path data-dc-tpl="132" d="M64 196 L120 196 L120 210 A28 16 0 0 1 64 210 Z" fill="#528EBF" data-om-id="c349924d:137"/>
+              <path data-dc-tpl="133" d="M120 196 L176 196 L176 210 A28 16 0 0 1 120 210 Z" fill="#2E5A80" data-om-id="c349924d:138"/>
+              <path data-dc-tpl="134" d="M176 196 L232 196 L232 210 A28 16 0 0 1 176 210 Z" fill="#528EBF" data-om-id="c349924d:139"/>
+              <path data-dc-tpl="135" d="M232 196 L288 196 L288 210 A28 16 0 0 1 232 210 Z" fill="#2E5A80" data-om-id="c349924d:140"/>
+              <path data-dc-tpl="136" d="M288 196 L344 196 L344 210 A28 16 0 0 1 288 210 Z" fill="#528EBF" data-om-id="c349924d:141"/>
+              <path data-dc-tpl="137" d="M344 196 L400 196 L400 210 A28 16 0 0 1 344 210 Z" fill="#2E5A80" data-om-id="c349924d:142"/>
+              <path data-dc-tpl="138" d="M400 196 L448 196 L448 210 A28 16 0 0 1 400 210 Z" fill="#528EBF" data-om-id="c349924d:143"/>
+              <path data-dc-tpl="139" d="M64 196 L448 196 L448 210 A28 16 0 0 1 400 210 A28 16 0 0 1 344 210 A28 16 0 0 1 288 210 A28 16 0 0 1 232 210 A28 16 0 0 1 176 210 A28 16 0 0 1 120 210 A28 16 0 0 1 64 210 Z" fill="url(#valShade)" data-om-id="c349924d:144"/>
+              <rect data-dc-tpl="140" x="64" y="194.5" width="384" height="3" fill="#000000" opacity="0.28" data-om-id="c349924d:145"/>
+            </g>
+          </g>
+
+          
+          <rect data-dc-tpl="141" x="0" y="0" width="512" height="512" fill="url(#vignette)" data-om-id="c349924d:146"/>
+
+          
+          <g data-dc-tpl="142" id="layer-sign" filter="url(#softShadow)" data-om-id="c349924d:147">
+            <rect data-dc-tpl="143" x="169" y="50" width="174" height="68" rx="18" fill="url(#signBevel)" data-om-id="c349924d:148"/>
+            <rect data-dc-tpl="144" x="176" y="57" width="160" height="54" rx="12" fill="url(#signGrad)" data-om-id="c349924d:149"/>
+            <rect data-dc-tpl="145" x="192" y="62" width="128" height="6" rx="3" fill="#FFFFFF" opacity="0.35" data-om-id="c349924d:150"/>
+            <text id="sign-text" x="256" y="97" text-anchor="middle" fill="#FFFFFF" filter="url(#textShadow)" font-size="36" style="font-family: -apple-system, &quot;Segoe UI&quot;, Helvetica, sans-serif; font-weight: 800; letter-spacing: 2px;">NIX</text>
+          </g>
+
+        </g>
+
+        
+        <rect data-dc-tpl="146" x="2" y="2" width="508" height="508" rx="116" fill="none" stroke="#FFFFFF" data-om-id="c349924d:151" stroke-opacity="0.09" stroke-width="4"/>
+      </g>
+    </svg>
