@@ -23,7 +23,7 @@ macOS (arm64/x64) + Linux (x64/arm64). NixOS and non-NixOS.
 - Don't touch NixOS system config (`configuration.nix`) — user profiles only. Out of scope.
 
 ## Design (see DESIGN.md)
-- Dark theme. Base `#212826`, accent **Cyan `#528EBF`**, highlight `#528EBF1A`, text `#F8F8F2` / `#ACADAD`.
+- Dark theme. Base `#222629`, accent **Cyan `#528EBF`**, highlight `#528EBF1A`, text `#F8F8F2` / `#ACADAD`.
 - App tag: **NIX**. Fonts: Outfit/Inter (UI), Fira Code or JetBrains Mono (CLI output).
 
 ## Conventions
