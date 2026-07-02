@@ -1,0 +1,50 @@
+{
+  "categories": [
+    {
+      "name": "Essentials",
+      "packages": [
+        {
+          "id": "jq",
+          "name": "jq",
+          "description": "JSON processor",
+          "kind": ""
+        },
+        {
+          "id": "ripgrep",
+          "name": "ripgrep",
+          "description": "Fast grep",
+          "kind": ""
+        },
+        {
+          "id": "htop",
+          "name": "htop",
+          "description": "Process viewer",
+          "kind": ""
+        }
+      ]
+    },
+    {
+      "name": "Dev",
+      "packages": [
+        {
+          "id": "nodejs",
+          "name": "Node.js",
+          "description": "JavaScript runtime",
+          "kind": ""
+        },
+        {
+          "id": "python3",
+          "name": "Python",
+          "description": "Programming language",
+          "kind": ""
+        },
+        {
+          "id": "git",
+          "name": "git",
+          "description": "Version control",
+          "kind": ""
+        }
+      ]
+    }
+  ]
+}
