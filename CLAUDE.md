@@ -2,9 +2,9 @@
 
 ## What
 Native GUI wrapper for **Nix** (`nix`). Part of YAS suite.
-Status: **docs-only — no code yet**.
+Status: **scaffolded & unit-tested** — vendored core + adapter + QML shell compile, 3/3 QtTest suites pass (verified cross-compiling on macOS). Pending: build + QA on the real target platform.
 
-## Stack (planned)
+## Stack
 - C++20 + Qt 6.7+ (Qt Quick / QML), CMake ≥ 3.24
 - Only true multi-platform app of the suite. Native windowing via Qt QPA: **cocoa** (macOS), **wayland/xcb** (Linux).
 - CLI execution: `QProcess` wrapping `nix`. Never bundle it.
@@ -23,7 +23,7 @@ macOS (arm64/x64) + Linux (x64/arm64). NixOS and non-NixOS.
 - Don't touch NixOS system config (`configuration.nix`) — user profiles only. Out of scope.
 
 ## Design (see DESIGN.md)
-- Dark theme. Base `#1E1E2E`, accent **Cyan `#528EBF`**, highlight `#528EBF1A`, text `#F8F8F2` / `#A9B1D6`.
+- Dark theme. Base `#212826`, accent **Cyan `#528EBF`**, highlight `#528EBF1A`, text `#F8F8F2` / `#ACADAD`.
 - App tag: **NIX**. Fonts: Outfit/Inter (UI), Fira Code or JetBrains Mono (CLI output).
 
 ## Conventions
