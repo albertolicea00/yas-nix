@@ -13,6 +13,7 @@ int main(int argc, char *argv[])
     QGuiApplication app(argc, argv);
     app.setOrganizationName(QStringLiteral("YAS"));
     app.setApplicationName(QStringLiteral("yas-nix"));
+    app.setApplicationVersion(QStringLiteral("0.1.0"));
     app.setApplicationDisplayName(QStringLiteral("Yet Another Store for Nix"));
 
     QQuickStyle::setStyle(QStringLiteral("Basic"));
