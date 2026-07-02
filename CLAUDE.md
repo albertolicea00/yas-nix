@@ -23,6 +23,7 @@ macOS (arm64/x64) + Linux (x64/arm64). NixOS and non-NixOS.
 - Don't touch NixOS system config (`configuration.nix`) — user profiles only. Out of scope.
 
 ## Design (see DESIGN.md)
+- UI shell: **Teams-style** — icon rail | list panel | detail pane (no in-app title header). Light/dark mode persisted via `YasManager` context property (`src/core/thememanager.*`, QSettings), toggle at rail bottom. Both palettes live in `qml/core/Theme.qml` (`Theme.dark`).
 - Dark theme. Base `#222629`, accent **Cyan `#528EBF`**, highlight `#528EBF1A`, text `#F8F8F2` / `#ACADAD`.
 - App tag: **NIX**. Fonts: Outfit/Inter (UI), Fira Code or JetBrains Mono (CLI output).
 
